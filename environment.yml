@@ -1,0 +1,6 @@
+name: databaseexercise
+channels:
+  - python
+  - sqlite
+  - pandas
+  - sqlalchemy
