@@ -1,6 +1,10 @@
 name: databaseexercise
 channels:
+  - defaults
+  - conda-forge
+dependencies:
   - python
+  - jupyter
   - sqlite
   - pandas
   - sqlalchemy
